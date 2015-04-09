@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BackLightMeasurement</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_blue">Blue</string>
+    <string name="title_activity_green">Green</string>
+    <string name="title_activity_red">Red</string>
+    <string name="title_activity_black">Black</string>
+    <string name="title_activity_white">White</string>
+
+</resources>
